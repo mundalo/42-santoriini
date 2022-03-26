@@ -8,3 +8,5 @@ how to run:
 4. Open the 'Go Live' (usually button can be found at bottom right corner)
 
 You should be good to play the game !
+
+Made in collaboration with @mobahug
