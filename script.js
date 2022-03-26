@@ -41,10 +41,6 @@ const rows = [
 	['', '', '', '', '']
 ]
 
-const cards = [
-	['', '', '', '', '', '']
-]
-
 /*	Initialize player 1 pieces	*/
 
 guide.style.color = 'black';
