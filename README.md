@@ -8,6 +8,8 @@ Here are [The official game rules](https://cdn.1j1ju.com/medias/fc/ec/5d-santori
 
 or you can also just jump into the game, we have a guide which tell you what to do step by step!:)
 
+To play the game just follow this link >> https://mundal1994.github.io/santoriini/
+
 ## Usage
 
 After you cloned the repository:
