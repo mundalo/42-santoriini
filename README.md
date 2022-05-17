@@ -25,4 +25,4 @@ Have fun!
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/83179142/160073484-a47b6ef1-f2c4-4f8a-afd4-44b193885e08.gif)
 
-Made in collaboration with @mobahug - he also made the above gif and description.
+Made in collaboration with Gabor Ulenius(https://github.com/mobahug) - he also made the above gif and description.
